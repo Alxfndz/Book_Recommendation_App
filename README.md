@@ -2,7 +2,6 @@
 
 The Book Recommendation App is a Python-based web application that allows users to search for books and get personalized recommendations based on their favorite book. It utilizes the Open Library API and is built with the Streamlit framework.
 
-![App Screenshot](screenshot.png)
 
 ## Features
 
