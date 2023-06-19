@@ -1,6 +1,3 @@
-Certainly! Here's an updated version of the README.md file without the contribution section:
-
-```markdown
 # Book Recommendation App
 
 The Book Recommendation App is a Python-based web application that allows users to search for books and get personalized recommendations based on their favorite book. It utilizes the Open Library API and is built with the Streamlit framework.
