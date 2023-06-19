@@ -10,10 +10,6 @@ The Book Recommendation App is a Python-based web application that allows users 
 - View book details such as title, author, publish year, and cover image.
 - Responsive design for seamless usage on desktop and mobile devices.
 
-## Demo
-
-Check out the live demo of the Book Recommendation App [here](https://your-app-url.com).
-
 ## Installation
 
 1. Clone the repository:
